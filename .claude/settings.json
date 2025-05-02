@@ -4,6 +4,7 @@
             // core file-editing capability
             "Edit",
             // version-control workflow (auto-commit + undo)
+            "Bash(git add:*)",
             "Bash(git commit:*)",
             "Bash(git restore:*)", // single-file undo
             "Bash(git revert:*)", // revert whole commit
