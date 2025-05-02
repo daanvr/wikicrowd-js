@@ -1,3 +1,7 @@
+# custom .gitignore file for this project
+old php repository/
+.DS_Store
+
 # Logs
 logs
 *.log
